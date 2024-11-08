@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "name":"To-Do-List",
+        "image": "to-do.webp",
+        "about": "This project is a simple and intuitive to-do list application built with React. It allows users to create, update, and delete tasks efficiently, helping them stay organized. To enhance user experience, the app utilizes local storage, enabling data persistence across browser sessions so users can retain their tasks even after refreshing or closing the page.",
+        "link": "https://todo-amit.netlify.app/"
+    },
+    {
+        "id":2,
+        "name":"Weather App",
+        "image": "weather.webp",
+        "about": "A weather app built with HTML, CSS, JavaScript, and a weather API. It provides real-time weather data, including temperature, humidity, and wind speed, based on user-entered city names. The app is responsive, offering a smooth experience across devices and demonstrating API integration in web development.",
+        "link": "https://sahoo-amit.github.io/Weather-App/"
+    },
+    {
+        "id":3,
+        "name":"Classic Sanke Game",
+        "image": "snake.webp",
+        "about": "A classic Snake game built with HTML, CSS, and JavaScript. Players control the snake to eat food, which makes it grow longer while avoiding collisions with walls and itself. The game features simple, responsive controls and provides a fun, interactive experience while showcasing core game development principles.",
+        "link": "https://sahoo-amit.github.io/Classical-Snake-Game/"
+    },
+    {
+        "id":4,
+        "name":"Music player",
+        "image": "music.jpg",
+        "about": "A music player built with HTML, CSS, and JavaScript that allows users to play, pause, skip, and adjust the volume of audio tracks. The app features a simple, user-friendly interface with controls for track navigation, play/pause functionality, and progress tracking, offering a seamless music listening experience.",
+        "link": "https://sahoo-amit.github.io/Music-App/"
+    },
+    {
+        "id":5,
+        "name":"Rock Paper Scissor",
+        "image": "rock paper scissors.jpg",
+        "about": "A Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. Players choose one of the three options, and the game randomly selects the opponent's choice. The app then determines the winner based on the classic rules and displays the result, offering a fun and interactive experience.",
+        "link": "https://sahoo-amit.github.io/Rock-Paper-Scissor/"
+    },
+    {
+        "id":6,
+        "name":"Country serach by name",
+        "image": "globe.webp",
+        "about": "A Country Search app built with React and an API that allows users to search for countries by name. The app fetches data like population, capital, and region from an external API and displays it in a user-friendly interface. It provides real-time search results, enhancing the experience with dynamic data retrieval.",
+        "link": "https://explorecountry123.netlify.app/"
+    },
+    {
+        "id":7,
+        "name":"Pokemon",
+        "image": "pokemon.webp",
+        "about": "A Pokemon Search app built with React and the Pokemon API that allows users to search for Pokemon by name or number. The app fetches data such as types, abilities, and stats from the API and displays it in a clean, interactive interface, providing a seamless and fun way to explore the world of Pokemon.",
+        "link": "https://amit-pokemon.netlify.app/"
+    },
+    {
+        "id":8,
+        "name":"Admin dashboard",
+        "image": "admin1.webp",
+        "about": "An Admin Dashboard built with React and Tailwind CSS that provides an intuitive interface for managing and monitoring data. It includes various components like charts, tables, and widgets for displaying key metrics. The design is responsive and customizable, offering a user-friendly experience with modern styling using Tailwind's utility-first classes.",
+        "link": "/"
+    },
+    {
+        "id":9,
+        "name":"Admin Panel using MERN",
+        "image": "admin2.jpg",
+        "about": "An Admin Dashboard built with the MERN stack (MongoDB, Express, React, Node.js) that allows for efficient data management and monitoring. It features a secure backend with user authentication, real-time data updates, and a dynamic frontend for displaying key metrics, charts, and tables. The app is highly scalable and customizable for various administrative tasks.",
+        "link": "/"
+    }
+]
